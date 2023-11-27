@@ -1,2 +1,1 @@
-"# holbertonschool-printf"
-hi
+This is a TEAM project
